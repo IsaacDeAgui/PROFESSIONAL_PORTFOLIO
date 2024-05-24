@@ -1,5 +1,5 @@
 # Data Scientist
-**AI and Machine Learning Specialist**
+## AI and Machine Learning Specialist
 
 #### Technical Skills: Python, SQL, Azure, Matplotlib, Seaborn, Scikit-Learn
 
